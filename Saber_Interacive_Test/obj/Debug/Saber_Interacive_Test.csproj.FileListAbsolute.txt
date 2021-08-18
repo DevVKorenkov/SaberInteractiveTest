@@ -1,0 +1,14 @@
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.exe.config
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.exe
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.pdb
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.csproj.AssemblyReference.cache
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.csproj.CoreCompileInputs.cache
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.exe
+E:\Projects\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.pdb
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.exe.config
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.exe
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\bin\Debug\Saber_Interacive_Test.pdb
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.exe
+C:\Users\Patrik\Desktop\Saber_Interacive_Test\Saber_Interacive_Test\obj\Debug\Saber_Interacive_Test.pdb
